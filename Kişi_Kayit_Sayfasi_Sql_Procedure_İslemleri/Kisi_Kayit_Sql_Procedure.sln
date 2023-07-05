@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kisi_Kayit_Sql_Procedure", "Kişi_Kayit_Sayfasi\Kisi_Kayit_Sql_Procedure.csproj", "{C8F69DD5-A1E1-470F-90FB-7F385C5A58EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8F69DD5-A1E1-470F-90FB-7F385C5A58EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8F69DD5-A1E1-470F-90FB-7F385C5A58EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8F69DD5-A1E1-470F-90FB-7F385C5A58EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8F69DD5-A1E1-470F-90FB-7F385C5A58EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDC8E611-57FF-496E-BACF-B05467BA18EF}
+	EndGlobalSection
+EndGlobal
